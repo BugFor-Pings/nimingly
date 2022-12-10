@@ -21,3 +21,10 @@
 ![img](https://pan.dkpoi.com/view.php/2cf60552ba88027b0f3fa658b33d7170.png)
 查留言:
 ![img](https://pan.dkpoi.com/view.php/1e9ab187341d6e742908b8f867e32da8.png)
+
+
+ver1.0 2022-04-13
+原理:mysql写入与查询
+实现:php+mysql
+项目用时:1h
+总结:简单实现了功能，后期继续更新代码，增加后台，增加表单送信，增加关键词检测
