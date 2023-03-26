@@ -16,11 +16,11 @@
 
 
 首页截图:
-![img](https://pan.dkpoi.com/view.php/caa8b8091e30a0e4d8b5132c6c81ba3f.png)
+![img](http://pan.dkpoi.com/view.php/caa8b8091e30a0e4d8b5132c6c81ba3f.png)
 写留言:
-![img](https://pan.dkpoi.com/view.php/2cf60552ba88027b0f3fa658b33d7170.png)
+![img](http://pan.dkpoi.com/view.php/2cf60552ba88027b0f3fa658b33d7170.png)
 查留言:
-![img](https://pan.dkpoi.com/view.php/1e9ab187341d6e742908b8f867e32da8.png)
+![img](http://pan.dkpoi.com/view.php/1e9ab187341d6e742908b8f867e32da8.png)
 
 
 ver1.0 2022-04-13
@@ -28,3 +28,7 @@ ver1.0 2022-04-13
 实现:php+mysql。
 项目用时:1h。
 总结:简单实现了功能，后期继续更新代码，增加后台，增加表单送信，增加关键词检测。
+
+bug之一，目前数据库不支持有中文的用户名和库名。可以自己手动新建一个数据库，取名拼音或者缩写都行 列子：nmly或nimimgliuyan  别用中文作为数据库用户名和数据库库名。
+
+
