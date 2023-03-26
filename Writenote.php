@@ -36,7 +36,7 @@
                         <blockquote><span id="hitokoto">获取中...</span></blockquote>
                     </header>
                     </b>
-					<form action="set.php" method="post" name="tijiao">
+					<form action="Writenote.php" method="post" name="tijiao">
                     <font size="3px">
                      </font>
                    <input type="text" name="name" placeholder="Ta的姓名或者暗号"  style="background-color:transparent; border:0px; height:30px; font-size:18px; width:100%"/>
